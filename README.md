@@ -1,2 +1,2 @@
-# sanjose-ai-chore-chart
-Keep track of who does what to keep your home clean.
+# sanjose-ai-online-scam
+AI for Catching Online Scams Before Residents Pay
